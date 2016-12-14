@@ -1,0 +1,31 @@
+Fri 10/21/2016  1:00:09.77 -- (stage-assembly) Arguments: 
+Fri 10/21/2016  1:00:09.78 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Core-Model\sdk\trunk\staging 
+Fri 10/21/2016  1:00:10.06 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Core-Model\sdk\trunk\staging 
+Fri 10/21/2016  1:00:10.08 -- (stage-files) The task was created with a different LANDIS_SDK: C:\Users\Austen\Documents\GitHub\Core-Model\sdk\trunk 
+Fri 10/21/2016  1:00:10.11 -- (stage-files) Run the update-task.cmd script in the current LANDIS_SDK: 
+Fri 10/21/2016 21:11:51.80 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:11:51.81 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:11:51.98 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:11:52.01 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Fri 10/21/2016 21:14:02.95 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:14:02.97 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:14:03.08 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:14:03.11 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Fri 10/21/2016 21:15:18.35 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:15:18.36 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:15:18.47 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:15:18.50 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Fri 10/21/2016 21:16:51.97 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:16:51.98 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:16:52.10 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:16:52.12 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Fri 10/21/2016 21:31:32.56 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:31:32.58 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:31:32.72 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:31:32.75 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Fri 10/21/2016 21:34:49.85 -- (stage-assembly) Arguments: "C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll" 
+Fri 10/21/2016 21:34:49.87 -- (stage-assembly) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:34:50.06 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Fri 10/21/2016 21:34:50.09 -- (stage-files) Line read from list: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src\libs\SiteHarvest\0.5\Landis.Library.SiteHarvest-v0.dll 
+Sat 10/22/2016 23:21:37.34 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
+Sat 10/22/2016 23:24:36.81 -- (stage-files) Working dir: C:\Users\Austen\Documents\GitHub\Extension-Base-Harvest\src 
